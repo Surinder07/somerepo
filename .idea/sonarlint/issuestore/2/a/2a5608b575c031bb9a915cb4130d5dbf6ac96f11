@@ -1,0 +1,6 @@
+
+G	java:S106"+Replace this use of System.out by a logger.(·×ëÕ8¨„ÆÜô1
+G	java:S106"+Replace this use of System.out by a logger.(ÁÕ½¿8©„ÆÜô1
+G	java:S106"+Replace this use of System.out by a logger.(Á™¹¹8©„ÆÜô1
+c
+java:S1128"FRemove this unused import 'java.util.concurrent.CopyOnWriteArrayList'.(ı¦ü8©„ÆÜô1
